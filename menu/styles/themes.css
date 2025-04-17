@@ -4,7 +4,7 @@
 /*--------------------------------------------------------------
 # DEFAULT
 --------------------------------------------------------------*/
-.satus-base {
+.satus-base[theme = 'light'] {
 	--satus-bubble-foreground: rgba(255, 255, 255, .8);
 	--satus-bubble-background: linear-gradient(135deg, #ff5075, #C02020);
 	--satus-bubble-shadow-raised: 0 2px 2px 1px #D97, 0 4px 4px rgb(140, 120, 80, .37);
